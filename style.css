@@ -1,0 +1,82 @@
+header {
+    font-size: 40px;
+    text-align: center;
+    font-family: Calibri;
+    background-color: burlywood;
+    color: red;
+    padding: 30px;
+    font-style: italic;
+}
+body {
+    background-image: url("source/background.png");
+}
+ h1  {
+     font-size: 60px;
+ }
+
+ .header a {
+     font-size: 15px;
+     line-height: 10px;
+     background-repeat: no-repeat;
+     background-position: left;
+ }
+
+.header-email {
+    padding-left: 30px;
+    background-image: url("img/icon-email.svg");
+}
+
+.header-phone {
+    padding-left: 30px;
+    background-image: url("img/icon-phone.svg");
+}
+
+figcaption {
+    color: black;
+    font-size: 40px;
+    text-align: right;
+    font-weight: bolder;
+}
+.imgcomment {
+    padding-left: 450px;
+    padding-bottom: 0px;
+    padding-top: 40px;
+    text-align: justify;
+    text-decoration: none;
+}
+
+span {
+    color: red;
+}
+
+.history {
+    font-size: 25px;
+    color: blue;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-align: justify;
+}
+
+.daylist {
+    font-size: 30px;
+    padding-left: 300px;
+    color: white;
+    text-decoration: underline;
+
+}
+
+.footer a {
+    background-repeat: no-repeat;
+    background-position: left;
+    color: green;
+}
+
+.footer-email {
+    padding-left: 30px;
+    background-image: url("img/icon-email.svg");
+}
+
+.footer-phone {
+    padding-left: 30px;
+    background-image: url("img/icon-phone.svg");
+}
