@@ -1,4 +1,4 @@
-header {
+.homepage {
     font-size: 40px;
     text-align: center;
     font-family: Calibri;
@@ -7,7 +7,7 @@ header {
     padding: 30px;
     font-style: italic;
 }
-body {
+.general {
     background-image: url("source/background.png");
 }
  h1  {
@@ -79,4 +79,25 @@ span {
 .footer-phone {
     padding-left: 30px;
     background-image: url("img/icon-phone.svg");
+}
+
+.newbackground {
+    background: url("source/bg-page.png") no-repeat top center;
+    color: #222222;
+    padding: 30px;
+    font-size: 16px;
+    line-height: 26px;
+    font-family: "Arial", sans-serif;
+}
+
+.header1 {
+    color: brown;
+}
+
+.inbag {
+    text-align: center;
+}
+
+.next {
+    text-align: left;
 }
