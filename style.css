@@ -89,7 +89,14 @@ span {
     line-height: 26px;
     font-family: "Arial", sans-serif;
 }
-
+ .newbackground-1 {
+     background: url("source/plane.jpg") no-repeat top center;
+     color: #222222;
+     padding: 30px;
+     font-size: 16px;
+     line-height: 26px;
+     font-family: "Arial", sans-serif;
+ }
 .header1 {
     color: brown;
 }
@@ -100,4 +107,8 @@ span {
 
 .next {
     text-align: left;
+}
+
+.whitetext {
+    color: white;
 }
